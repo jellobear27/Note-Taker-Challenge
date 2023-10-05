@@ -1,8 +1,7 @@
 // Dependencies
-const express = require(express);
-const path = require(path);
-const fs = require(fs);
-const util = require(util);
+const express = require("express");
+const path = require("path");
+const fs = require("fs");
 
 // Handling Asynchronous Process
 const readFileAsync = util.promisify(fs.readFile);
