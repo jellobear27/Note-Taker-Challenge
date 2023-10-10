@@ -17,6 +17,8 @@ The Note Taker App is a simple web application built using Node.js and Express.j
 3. Run `npm install` to install the required dependencies.
 4. Start the server by running `npm start`.
 5. Open your web browser and go to `http://localhost:8000` to access the Note Taker App.
+6. [View the deployed app](https://note-taker-27-6e47b34eb980.herokuapp.com/notes)
+
 
 ## Usage
 1. To create a new note, click on the "Note Title" and "Note Text" fields, and enter your title and content.
